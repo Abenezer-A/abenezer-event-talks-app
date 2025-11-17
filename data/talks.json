@@ -1,0 +1,46 @@
+{
+  "talks": [
+    {
+      "title": "The Future of Artificial Intelligence",
+      "speakers": ["Jane Doe"],
+      "category": ["AI", "Machine Learning"],
+      "duration": 60,
+      "description": "A deep dive into the future of AI and its potential impact on society."
+    },
+    {
+      "title": "Building Scalable Web Applications",
+      "speakers": ["John Smith", "Peter Jones"],
+      "category": ["Web Development", "Scalability"],
+      "duration": 60,
+      "description": "Learn how to build web applications that can handle millions of users."
+    },
+    {
+      "title": "Cybersecurity in the Modern Age",
+      "speakers": ["Mary Johnson"],
+      "category": ["Cybersecurity", "Security"],
+      "duration": 60,
+      "description": "An overview of the latest threats in cybersecurity and how to protect against them."
+    },
+    {
+      "title": "The Power of Quantum Computing",
+      "speakers": ["David Williams"],
+      "category": ["Quantum Computing", "Science"],
+      "duration": 60,
+      "description": "Exploring the exciting world of quantum computing and its potential applications."
+    },
+    {
+      "title": "Frontend Frameworks: A Comparative Analysis",
+      "speakers": ["Emily Brown", "Jessica Davis"],
+      "category": ["Web Development", "Frontend"],
+      "duration": 60,
+      "description": "A detailed comparison of the most popular frontend frameworks."
+    },
+    {
+      "title": "The Ethics of AI",
+      "speakers": ["Michael Miller"],
+      "category": ["AI", "Ethics"],
+      "duration": 60,
+      "description": "A discussion on the ethical implications of artificial intelligence."
+    }
+  ]
+}
